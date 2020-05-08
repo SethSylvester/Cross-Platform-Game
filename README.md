@@ -2,4 +2,4 @@
  
  https://sethsylvester.github.io/Cross-Platform-Game/docs/
  
- https://sethsylvester.github.io/Cross-Platform-Game/player/
+ https://sethsylvester.github.io/Cross-Platform-Game/Player/
