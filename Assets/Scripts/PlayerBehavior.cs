@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//The behavior for the player of the game
 public class PlayerBehavior : MonoBehaviour
 {
     Vector3 startPos;

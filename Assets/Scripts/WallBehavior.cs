@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Behaviors for walls
 public class WallBehavior : MonoBehaviour
 {
     PlayerBehavior playerb;

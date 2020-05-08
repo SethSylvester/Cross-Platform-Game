@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//The behavior to make the timer work
 public class TimerBehavior : MonoBehaviour
 {
     [SerializeField]

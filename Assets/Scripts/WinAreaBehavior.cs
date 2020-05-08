@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//The behavior for the win area
 public class WinAreaBehavior : MonoBehaviour
 {
     PlayerBehavior playerb;

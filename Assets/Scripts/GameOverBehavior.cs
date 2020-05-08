@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//The behavior class for the Game Over Screen
 public class GameOverBehavior : MonoBehaviour
 {
     [SerializeField]
